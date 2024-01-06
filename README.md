@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 This project is based on [FastChat](https://github.com/lm-sys/FastChat), which supports [multiple large language models](https://github.com/lm-sys/FastChat/blob/main/docs/model_support.md).
 
-Personally, I only tested the LLM model [THUDM/ChatGLM3-6B](https://huggingface.co/THUDM/chatglm3-6b) vs. the Embedding model [BAAI/bge-large-en](https://huggingface.co/BAAI/bge-large-zh), other models can theoretically be used as well.
+Personally, I only tested the LLM model [THUDM/ChatGLM3-6B](https://huggingface.co/THUDM/chatglm3-6b) and the Embedding model [BAAI/bge-large-en](https://huggingface.co/BAAI/bge-large-zh), other models can theoretically be used as well.
 
 ```bash
 git lfs install
