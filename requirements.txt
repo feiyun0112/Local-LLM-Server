@@ -1,0 +1,8 @@
+uvicorn
+fschat
+transformers
+torch
+accelerate
+sentencepiece
+openai
+langchain
